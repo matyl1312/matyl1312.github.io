@@ -2,6 +2,7 @@
 
 Ph.D. Candidate in Mathematics, Zhejiang University  
 Email: matyl1312[at]foxmail[dot]com  
+[Download my CV (PDF)](CV.pdf)
 
 ---
 
@@ -15,12 +16,12 @@ I am also interested in related areas such as representations of p-adic groups, 
 ## Education
 
 **Zhejiang University**  
-Ph.D. Candidate in Mathematics (Expected Jun 2026)  
+Ph.D. Candidate in Mathematics (Sep. 2021- Jun. 2026, expected)  
 Advisor: Prof. Jian-Shu Li  
 *Hangzhou, China*  
 
 **Zhejiang University**  
-B.Sc. in Mathematics and Applied Mathematics (2017 – 2021)  
+B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)  
 *Hangzhou, China*
 
 ---
