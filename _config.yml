@@ -3,10 +3,7 @@ theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
 description: >
-  Ph.D. in Pure Mathematics.  
-  Representation theory of real reductive groups, Dirac operators, and related cohomology questions.
+  Ph.D. Candidate in Pure Mathematics, Zhejiang University.
+  Representation theory of real reductive groups and Dirac operators.
 show_excerpts: false
