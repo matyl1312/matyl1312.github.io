@@ -2,7 +2,7 @@
 
 Ph.D. Candidate in Mathematics, Zhejiang University  
 Email: matyl1312[at]foxmail[dot]com  
-[Download my CV (PDF)](CV.pdf)
+Here is my [CV](CV.pdf)
 
 ---
 
