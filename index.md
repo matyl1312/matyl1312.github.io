@@ -1,8 +1,3 @@
-# Hao Ying(应浩)
-
----
-
-## basic information
 Ph.D. Candidate in Mathematics, Zhejiang University  
 Email: matyl1312[at]foxmail[dot]com  
 Here is my [CV](CV.pdf).
@@ -17,35 +12,24 @@ My research focuses on the representation theory of real Lie groups, especially 
 
 ## Education
 
-**Zhejiang University**  *Hangzhou, China* 
-Ph.D. Candidate in Mathematics (Sep. 2021- Jun. 2026, expected)  
-Advisor: Prof. Jian-Shu Li  
- 
+**Zhejiang University**  *Hangzhou, China*  
+Ph.D. Candidate in Mathematics (Sep. 2021 – Jun. 2026, expected)  
+Advisor: Prof. Jian-Shu Li
 
-**Zhejiang University**  *Hangzhou, China*
-B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)  
-
----
-
-## Publications
-
-- F. Januszewski, B. Sun, **H. Ying**, *Hausdorffness of certain nilpotent cohomology spaces.*
-  *J. Funct. Anal.* 289 (10), 111120 (2025). [DOI](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv](https://arxiv.org/abs/2501.02799)
+**Zhejiang University**  *Hangzhou, China*  
+B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
 
 ---
 
 ## Publications
 
-- **F. Januszewski, B. Sun, H. Ying**, *Hausdorffness of certain nilpotent cohomology spaces.*  
-  *J. Funct. Anal.* 289 (10), 111120 (2025).  
-  [DOI](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv](https://arxiv.org/abs/2501.02799)
-
+- F. Januszewski, B. Sun, **H. Ying**, *Hausdorffness of certain nilpotent cohomology spaces.* *J. Funct. Anal.* 289 (10), 111120 (2025). [DOI](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv](https://arxiv.org/abs/2501.02799)
 
 ---
 
 ## Invited Talks
 
-- Mini-talk (20 minutes), *The Ninth International Conference on Representation Theory*, Nanjing, China (June 17–23 2025).  
+- Mini-talk (20 minutes), *The Ninth International Conference on Representation Theory*, Nanjing, China (June 17–23 2025)
 
 ---
 
@@ -61,25 +45,20 @@ B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
 - Teaching Assistant, Undergraduate Algebraic Topology, Zhejiang University (Spring 2022)  
 - Teaching Assistant, Undergraduate Homological Algebra, Zhejiang University (Fall 2021)
 
-
 ---
-<!-- Polyfill for older browsers (可选，如果只针对现代浏览器可以省略) -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
-<!-- MathJax 3 配置 -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script>
 window.MathJax = {
   tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],   // 支持 $…$ 和 \(…\) 内联公式
-    displayMath: [['$$', '$$'], ['\\[', '\\]']] // 支持 $$…$$ 和 \[…\] 展示公式
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
   },
   options: {
-    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // 不处理这些标签里的内容
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
   }
 };
 </script>
-
-<!-- MathJax 核心脚本 -->
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
