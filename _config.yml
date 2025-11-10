@@ -6,5 +6,5 @@ kramdown:
   math_engine: mathjax
 description: >
   Ph.D. Candidate in Pure Mathematics, Zhejiang University.
-  Representation theory of real reductive groups and Dirac operators.
+ % Representation theory of real reductive groups and Dirac operators.
 show_excerpts: false
