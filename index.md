@@ -52,11 +52,31 @@ B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
 - Teaching Assistant, Undergraduate Homological Algebra, Zhejiang University (Fall 2021)
 
 
-
 ---
-
+<!-- Polyfill for older browsers (可选，如果只针对现代浏览器可以省略) -->
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+
+<!-- MathJax 3 配置 -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],   // 支持 $…$ 和 \(…\) 内联公式
+    displayMath: [['$$', '$$'], ['\\[', '\\]']] // 支持 $$…$$ 和 \[…\] 展示公式
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // 不处理这些标签里的内容
+  }
+};
 </script>
+
+<!-- MathJax 核心脚本 -->
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+%---
+
+%<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+%<script id="MathJax-script" async
+%  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+%</script>
 
