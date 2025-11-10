@@ -1,4 +1,5 @@
 title: Hao Ying
+show_author: false 
 theme: minima
 markdown: kramdown
 kramdown:
