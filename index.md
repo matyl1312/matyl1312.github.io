@@ -8,8 +8,7 @@ Here is my [CV](CV.pdf)
 
 ## Research Interests
 
-My research focuses on the representation theory of real Lie groups, especially Harish–Chandra modules, their globalizations, and the theta correspondence.  
-I am also interested in related areas such as representations of p-adic groups, automorphic representations, and the (relative) Langlands program.
+My research focuses on the representation theory of real Lie groups, especially Harish–Chandra modules, their globalizations, and the theta correspondence. I am also interested in related areas such as representations of p-adic groups, automorphic representations, and the (relative) Langlands program.
 
 ---
 
@@ -28,7 +27,7 @@ B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
 
 ## Publication
 
-- **H. Ying**, F. Januszewski, B. Sun.  
+- F. Januszewski, B. Sun, **H. Ying**,  
   *Hausdorffness of certain nilpotent cohomology spaces.*  
   *J. Funct. Anal.* 289 (10), 111120 (2025).  
   [doi: 10.1016/j.jfa.2025.111120](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv: 2501.02799](https://arxiv.org/abs/2501.02799)  
