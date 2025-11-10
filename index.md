@@ -1,32 +1,59 @@
-# Hao Ying
+# Hao Ying(应浩)
 
-Ph.D. in Pure Mathematics  
-Email: yourname [at] university.edu
+Ph.D. Candidate in Mathematics, Zhejiang University  
+Email: matyl1312[at]foxmail[dot]com  
 
 ---
 
 ## Research Interests
 
-Representation theory of real reductive groups, Dirac operators, and $(\mathfrak{g},K)$-modules.
+My research focuses on the representation theory of real Lie groups, especially Harish–Chandra modules, their globalizations, and the theta correspondence.  
+I am also interested in related areas such as representations of p-adic groups, automorphic representations, and the (relative) Langlands program.
 
 ---
 
-## Publications
+## Education
 
-- **H. Ying**, B. Sun, F. Januszewski, *Hausdorffness of certain nilpotent cohomology spaces*, preprint (2025).  
-- ...
+**Zhejiang University**  
+Ph.D. Candidate in Mathematics (Expected Jun 2026)  
+Advisor: Prof. Jian-Shu Li  
+*Hangzhou, China*  
+
+**Zhejiang University**  
+B.Sc. in Mathematics and Applied Mathematics (2017 – 2021)  
+*Hangzhou, China*
 
 ---
 
-## Teaching
+## Publication
 
-- 2025 Spring — Representation Theory Seminar  
-- 2024 Fall — Topics in Real Lie Groups  
+- **H. Ying**, F. Januszewski, B. Sun.  
+  *Hausdorffness of certain nilpotent cohomology spaces.*  
+  *J. Funct. Anal.* 289 (10), 111120 (2025).  
+  [doi: 10.1016/j.jfa.2025.111120](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv: 2501.02799](https://arxiv.org/abs/2501.02799)  
+
 
 ---
 
-## CV
-[Download my CV (PDF)](cv.pdf)
+## Invited Talks
+
+- Mini-talk (20 minutes), *The Ninth International Conference on Representation Theory*, Nanjing, China (June 17–23 2025).  
+
+---
+
+## Conferences Attended
+
+- *The Ninth International Conference on Representation Theory*, Nanjing, China (Jun 2025)  
+- *Real reductive groups and Theta correspondence*, Yunnan, China (Jul 2024)
+
+---
+
+## Teaching Experience
+
+- Teaching Assistant, Undergraduate Algebraic Topology, Zhejiang University (Spring 2022)  
+- Teaching Assistant, Undergraduate Homological Algebra, Zhejiang University (Fall 2021)
+
+
 
 ---
 
@@ -34,3 +61,4 @@ Representation theory of real reductive groups, Dirac operators, and $(\mathfrak
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
