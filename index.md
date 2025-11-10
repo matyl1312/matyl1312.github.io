@@ -27,9 +27,8 @@ B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
 
 ## Publications
 
-- **F. Januszewski, B. Sun, H. Ying**, *Hausdorffness of certain nilpotent cohomology spaces.*  
-  *J. Funct. Anal.* 289 (10), 111120 (2025).  
-  [DOI](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv](https://arxiv.org/abs/2501.02799)
+- F. Januszewski, B. Sun, **H. Ying**, *Hausdorffness of certain nilpotent cohomology spaces.*  
+  *J. Funct. Anal.* 289 (10), 111120 (2025).  [DOI](https://doi.org/10.1016/j.jfa.2025.111120) | [arXiv](https://arxiv.org/abs/2501.02799)
 
 
 ---
