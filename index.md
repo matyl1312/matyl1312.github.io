@@ -17,11 +17,11 @@ My research focuses on the representation theory of real Lie groups, especially 
 ## Education
 
 **Zhejiang University**  *Hangzhou, China*  
-Ph.D. Candidate in Mathematics (Sep. 2021 – Jun. 2026, expected)  
+Ph.D. Candidate in Mathematics (Sep. 2021 – Jul. 2026, expected)  
 Advisor: Prof. Jian-Shu Li
 
 **Zhejiang University**  *Hangzhou, China*  
-B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jun. 2021)
+B.Sc. in Mathematics and Applied Mathematics (Sep. 2017 – Jul. 2021)
 
 ---
 
